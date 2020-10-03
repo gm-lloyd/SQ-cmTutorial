@@ -1,2 +1,2 @@
 # SQ-cmTutorial
-Example repository edit
+Example repository to demonstrate CI/CD processes with Jenkins
